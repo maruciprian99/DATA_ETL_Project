@@ -1,0 +1,205 @@
+WARNING:root:2022-10-21 15:38:02 Succesfully verified the existence of CM_UsersDetails.xlsx; make sure it contains the updated info
+INFO:root:2022-10-21 15:38:02 Succesfully generated Bugzilla final report
+WARNING:root:2022-10-21 16:13:42 Succesfully verified the existence of CM_UsersDetails.xlsx; make sure it contains the updated info
+INFO:root:2022-10-21 16:13:42 Succesfully generated Bugzilla final report
+WARNING:root:2022-10-21 16:14:05 Succesfully verified the existence of CM_UsersDetails.xlsx; make sure it contains the updated info
+WARNING:root:2022-10-21 16:17:05 Succesfully verified the existence of CM_UsersDetails.xlsx; make sure it contains the updated info
+INFO:root:2022-10-21 16:17:05 Succesfully generated Bugzilla final report
+WARNING:root:2022-10-21 16:17:13 Succesfully verified the existence of CM_UsersDetails.xlsx; make sure it contains the updated info
+WARNING:root:2022-10-21 16:19:30 Succesfully verified the existence of CM_UsersDetails.xlsx; make sure it contains the updated info
+WARNING:root:2022-10-21 16:20:10 Succesfully verified the existence of CM_UsersDetails.xlsx; make sure it contains the updated info
+INFO:root:2022-10-21 16:20:10 Succesfully generated Bugzilla final report
+WARNING:root:2022-10-21 16:30:00 Succesfully verified the existence of CM_UsersDetails.xlsx; make sure it contains the updated info
+INFO:root:2022-10-21 16:30:00 Succesfully generated Bugzilla final report
+WARNING:root:2022-10-21 16:31:26 Succesfully verified the existence of CM_UsersDetails.xlsx; make sure it contains the updated info
+INFO:root:2022-10-21 16:31:26 Succesfully generated Bugzilla final report
+ERROR:root:2022-10-24 10:43:53 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 10:44:34 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 10:44:34 Connection to MySQL server was established
+INFO:root:2022-10-24 10:44:34 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 10:45:51 Invalid credentials or not connected to ADN 2.0 or URA VPN
+ERROR:root:2022-10-24 10:45:51 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 10:45:51 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 10:45:51 Connection to MySQL server was established
+INFO:root:2022-10-24 10:45:51 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 10:47:14 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 10:47:14 Connection to MySQL server was established
+INFO:root:2022-10-24 10:47:14 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 10:51:20 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 10:51:20 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 10:51:20 Connection to MySQL server was established
+INFO:root:2022-10-24 10:51:20 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 10:54:15 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 10:54:15 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 10:54:15 Connection to MySQL server was established
+INFO:root:2022-10-24 10:54:15 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 10:55:52 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 10:55:52 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 10:55:52 Connection to MySQL server was established
+INFO:root:2022-10-24 10:55:52 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:00:34 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:00:34 Connection to MySQL server was established
+INFO:root:2022-10-24 11:00:34 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:01:54 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:01:54 Connection to MySQL server was established
+INFO:root:2022-10-24 11:01:54 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:05:55 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:05:55 Connection to MySQL server was established
+INFO:root:2022-10-24 11:05:55 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:07:27 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:07:27 Connection to MySQL server was established
+INFO:root:2022-10-24 11:07:27 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:13:31 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:13:31 Connection to MySQL server was established
+INFO:root:2022-10-24 11:13:31 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 11:16:30 Invalid credentials or not connected to ADN 2.0 or URA VPN
+ERROR:root:2022-10-24 11:16:45 Invalid credentials or not connected to ADN 2.0 or URA VPN
+ERROR:root:2022-10-24 11:16:45 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 11:16:45 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:16:45 Connection to MySQL server was established
+INFO:root:2022-10-24 11:16:45 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:31:56 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:31:56 Connection to MySQL server was established
+INFO:root:2022-10-24 11:31:56 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:32:52 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:32:52 Connection to MySQL server was established
+INFO:root:2022-10-24 11:32:52 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 11:34:57 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 11:34:57 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:34:57 Connection to MySQL server was established
+INFO:root:2022-10-24 11:34:57 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:35:44 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:35:44 Connection to MySQL server was established
+INFO:root:2022-10-24 11:35:44 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:42:20 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:42:20 Connection to MySQL server was established
+INFO:root:2022-10-24 11:42:20 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:50:51 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:50:51 Connection to MySQL server was established
+INFO:root:2022-10-24 11:50:51 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:52:50 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:52:50 Connection to MySQL server was established
+INFO:root:2022-10-24 11:52:50 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:57:39 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:57:39 Connection to MySQL server was established
+INFO:root:2022-10-24 11:57:39 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:58:33 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:58:33 Connection to MySQL server was established
+INFO:root:2022-10-24 11:58:33 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 11:59:36 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 11:59:36 Connection to MySQL server was established
+INFO:root:2022-10-24 11:59:36 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 12:01:50 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 12:01:50 Connection to MySQL server was established
+INFO:root:2022-10-24 12:01:50 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 12:18:50 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 12:18:50 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 12:18:50 Connection to MySQL server was established
+INFO:root:2022-10-24 12:18:50 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 12:21:35 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 12:21:35 Connection to MySQL server was established
+INFO:root:2022-10-24 12:21:35 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 12:21:59 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 12:21:59 Connection to MySQL server was established
+INFO:root:2022-10-24 12:21:59 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 12:22:57 Invalid credentials or not connected to ADN 2.0 or URA VPN
+ERROR:root:2022-10-24 12:22:57 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 12:24:05 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 12:24:05 Connection to MySQL server was established
+INFO:root:2022-10-24 12:24:05 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 12:25:59 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 12:25:59 Connection to MySQL server was established
+INFO:root:2022-10-24 12:25:59 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 12:29:52 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 12:29:52 Connection to MySQL server was established
+INFO:root:2022-10-24 12:29:52 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 12:33:41 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 12:33:41 Connection to MySQL server was established
+INFO:root:2022-10-24 12:33:41 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 12:34:18 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 12:34:18 Connection to MySQL server was established
+INFO:root:2022-10-24 12:34:18 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 12:36:03 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 12:36:03 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 12:36:03 Connection to MySQL server was established
+INFO:root:2022-10-24 12:36:03 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 13:24:55 Invalid credentials or not connected to ADN 2.0 or URA VPN
+ERROR:root:2022-10-24 13:24:55 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 13:24:55 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 13:24:55 Connection to MySQL server was established
+INFO:root:2022-10-24 13:24:55 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 13:27:20 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 13:27:20 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 13:27:20 Connection to MySQL server was established
+INFO:root:2022-10-24 13:27:20 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 13:48:36 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 13:48:36 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 13:48:36 Connection to MySQL server was established
+INFO:root:2022-10-24 13:48:36 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 13:51:53 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 13:51:53 Connection to MySQL server was established
+INFO:root:2022-10-24 13:51:53 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 13:52:37 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 13:52:37 Connection to MySQL server was established
+INFO:root:2022-10-24 13:52:37 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 13:56:12 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 13:56:12 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 13:56:12 Connection to MySQL server was established
+INFO:root:2022-10-24 13:56:12 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 13:57:15 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 13:57:15 Connection to MySQL server was established
+INFO:root:2022-10-24 13:57:15 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 13:59:21 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 13:59:21 Connection to MySQL server was established
+INFO:root:2022-10-24 13:59:21 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 14:00:14 Invalid credentials or not connected to ADN 2.0 or URA VPN
+ERROR:root:2022-10-24 14:00:14 Invalid credentials or not connected to ADN 2.0 or URA VPN
+ERROR:root:2022-10-24 14:00:14 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 14:00:14 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 14:00:14 Connection to MySQL server was established
+INFO:root:2022-10-24 14:00:14 Bugzilla raw data was succesfully generated
+ERROR:root:2022-10-24 14:01:59 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 14:01:59 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 14:01:59 Connection to MySQL server was established
+INFO:root:2022-10-24 14:01:59 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 14:13:23 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 14:13:23 Connection to MySQL server was established
+INFO:root:2022-10-24 14:13:23 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 14:41:34 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 14:41:34 Connection to MySQL server was established
+INFO:root:2022-10-24 14:41:34 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 14:48:11 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 14:48:11 Connection to MySQL server was established
+INFO:root:2022-10-24 14:48:11 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 14:51:10 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 14:51:10 Connection to MySQL server was established
+INFO:root:2022-10-24 14:51:10 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 14:52:40 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 14:52:40 Connection to MySQL server was established
+INFO:root:2022-10-24 14:52:40 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 14:55:20 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 14:55:20 Connection to MySQL server was established
+INFO:root:2022-10-24 14:55:20 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 14:56:03 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 14:56:03 Connection to MySQL server was established
+INFO:root:2022-10-24 14:56:03 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 15:04:16 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 15:04:16 Connection to MySQL server was established
+INFO:root:2022-10-24 15:04:16 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 15:04:16 Bugzilla raw data files were succesfully copied from server to local machine
+ERROR:root:2022-10-24 15:06:00 Invalid credentials or not connected to ADN 2.0 or URA VPN
+ERROR:root:2022-10-24 15:06:00 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 15:06:00 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 15:06:00 Connection to MySQL server was established
+INFO:root:2022-10-24 15:06:00 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 15:06:00 Bugzilla raw data files were succesfully copied from server to local machine
+INFO:root:2022-10-24 15:07:34 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 15:07:34 Connection to MySQL server was established
+INFO:root:2022-10-24 15:07:34 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 15:07:34 Bugzilla raw data files were succesfully copied from server to local machine
+ERROR:root:2022-10-24 15:08:32 Invalid credentials or not connected to ADN 2.0 or URA VPN
+ERROR:root:2022-10-24 15:08:32 Invalid credentials or not connected to ADN 2.0 or URA VPN
+INFO:root:2022-10-24 15:08:32 Connected succesfully to Bugzilla server
+INFO:root:2022-10-24 15:08:32 Connection to MySQL server was established
+INFO:root:2022-10-24 15:08:32 Bugzilla raw data was succesfully generated
+INFO:root:2022-10-24 15:08:32 Bugzilla raw data files were succesfully copied from server to local machine
